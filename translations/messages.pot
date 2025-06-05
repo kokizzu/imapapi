@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=ascii\n"
-"POT-Creation-Date: 2025-05-19 19:54+0000\n"
+"POT-Creation-Date: 2025-06-05 08:24+0000\n"
 
 #: views/config/license.hbs:49
 msgid "%d day"
@@ -13,8 +13,9 @@ msgstr[1] ""
 msgid "Click <a href=\"%s\">here</a> to continue&mldr;"
 msgstr ""
 
-#: views/unsubscribe.hbs:1
-#: views/unsubscribe.hbs:79
+#: views/unsubscribe.hbs:3
+#: views/unsubscribe.hbs:60
+#: views/unsubscribe.hbs:83
 msgid "Unsubscribe"
 msgstr ""
 
@@ -44,15 +45,19 @@ msgid "Subscribe"
 msgstr ""
 
 #: views/unsubscribe.hbs:54
+msgid "Subscription resumed"
+msgstr ""
+
+#: views/unsubscribe.hbs:56
 msgid "Your email address <em>%s</em> was re-subscribed."
 msgstr ""
 
-#: views/unsubscribe.hbs:69
+#: views/unsubscribe.hbs:73
 #: views/accounts/register/imap.hbs:21
 msgid "Email address"
 msgstr ""
 
-#: views/unsubscribe.hbs:75
+#: views/unsubscribe.hbs:79
 #: views/accounts/register/imap.hbs:27
 msgid "Enter your email address"
 msgstr ""
